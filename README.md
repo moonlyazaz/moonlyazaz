@@ -80,10 +80,7 @@ Port customizado de HyperOS com branding e customizações de UI próprias, para
 
 <div align="center">
 
-![GitHub Stats](https://raw.githubusercontent.com/moonlyazaz/moonlyazaz/output/github-stats.svg)
-![Top Langs](https://raw.githubusercontent.com/moonlyazaz/moonlyazaz/output/top-langs.svg)
-
-![Streak](https://streak-stats.demolab.com?user=moonlyazaz&theme=tokyonight&hide_border=true)
+![GitHub Metrics](https://raw.githubusercontent.com/moonlyazaz/moonlyazaz/output/github-metrics.svg)
 
 </div>
 
@@ -113,4 +110,4 @@ Port customizado de HyperOS com branding e customizações de UI próprias, para
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
+!
