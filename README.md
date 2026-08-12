@@ -1,8 +1,8 @@
-![Typing](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=18&duration=2800&pause=1200&color=D4A24E&center=true&vCenter=true&width=780&height=50&lines=%E2%AC%A1+BALUARTE+%2F%2F+FIELD+MANUAL+%E2%80%94+VOLUME+I;%F0%9F%96%A5+Arquiteto+de+CPUs+do+zero+%7C+8-bit+at%C3%A9+64-bit;%F0%9F%A4%96+J.A.R.V.I.S.%2C+IA+e+ferramentas+web+de+verdade;%E2%9A%A1+Arsenal%3A+Python+%C2%B7+C+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+JavaScript;%F0%9F%8C%90+Ecossistema+Baluarte+%C2%B7+LLBR+Innovations;%F0%9F%9B%A1+Status%3A+OPERACIONAL+%E2%80%94+MISS%C3%83O+EM+CURSO)
+![Typing](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=18&duration=2800&pause=1200&color=D4A24E&center=true&vCenter=true&width=780&height=50&lines=Desenvolvedor+%7C+Arquitetura+de+CPUs+do+zero;J.A.R.V.I.S.+%E2%80%94+assistente+de+IA+e+ferramentas+web;Python+%C2%B7+C+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+JavaScript;Ecossistema+Baluarte+%C2%B7+LLBR+Innovations)
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/%E2%9C%94%EF%B8%8F%20STATUS-ONLINE-3ddc84?style=for-the-badge&labelColor=0e0c16&color=3ddc84)](https://github.com/Lucas-Belucci-Bellini)
+[![Status](https://img.shields.io/badge/STATUS-ATIVO-3ddc84?style=for-the-badge&labelColor=0e0c16&color=3ddc84)](https://github.com/Lucas-Belucci-Bellini)
 [![University](https://img.shields.io/badge/%F0%9F%94%93%20UNIFIL-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-d4a24e?style=for-the-badge&labelColor=0e0c16&color=d4a24e)](https://unifil.br)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Londrina-Paran%C3%A1%20%C2%B7%20Brasil-e8c07a?style=for-the-badge&labelColor=0e0c16&color=e8c07a)](#)
 
@@ -10,35 +10,17 @@
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   BALUARTE // FIELD MANUAL — VOLUME I                        ║
-║   ──────────────────────────────────────────────────────     ║
-║   >> Agente    : Eliseu Palomar                              ║
-║   >> Codinome  : Usagi                                       ║
-║   >> Base      : Londrina, Paraná, Brasil                    ║ 
-║   >> Arsenal   : Programação · Robótica · Eletrônica         ║
-║   >> Status    : EM CAMPO — OPERACIONAL .........[OK]        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## Sobre mim
 
-## `// FICHA DE AGENTE` — PT-BR
+Sou o **Lucas Belucci Bellini**, estudante de **Ciência da Computação** na **UNIFIL**, em Londrina/PR.
 
-Oi! Sou o **Lucas Belucci Bellini**, também conhecido como **Spartan Gamer BR** — estudante de **Ciência da Computação** na **UNIFIL**, em Londrina/PR.
-
-Construo desde **CPUs de 8 a 64 bits do zero** (porta lógica por porta lógica) até **plataformas web, agentes de IA e jogos**. Meu projeto-farol é o **⬡ Projeto Baluarte**, com o assistente **J.A.R.V.I.S.** e o motor **Git Nexus**. Gosto de tentar coisas novas e **sempre termino o que começo**, não importa quanto tempo demore. Apaixonado por carros, programação, robótica, eletrônica, filmes e jogos.
-
-## `// AGENT FILE` — EN-US
-
-Hi! I'm **Lucas Belucci Bellini**, a.k.a. **Spartan Gamer BR** — a Computer Science student at **UNIFIL**, Londrina, Brazil.
-
-I build everything from **8-to-64-bit CPUs from scratch** (logic gate by logic gate) to **web platforms, AI agents and games**. My flagship is the **⬡ Projeto Baluarte**, home of the **J.A.R.V.I.S.** assistant and the **Git Nexus** engine. I love trying new things and **always finish what I start**, no matter how long it takes.
+Construo desde **CPUs de 8 a 64 bits do zero** (porta lógica por porta lógica) até **plataformas web, agentes de IA e jogos**. Meu projeto principal é o **Projeto Baluarte**, com o assistente **J.A.R.V.I.S.** e o motor **Git Nexus**. Gosto de experimentar coisas novas e sempre termino o que começo, não importa quanto tempo demore. Tenho interesse por programação, robótica, eletrônica e desenvolvimento de jogos.
 
 ---
 
-![Arsenal](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=D4A24E&center=true&vCenter=true&width=520&height=30&lines=%E2%97%86+ARSENAL+%E2%80%94+TECH+STACK+%26+TOOLS+%E2%97%86)
+![Arsenal](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=D4A24E&center=true&vCenter=true&width=520&height=30&lines=STACK+E+FERRAMENTAS)
 
-### ⚡ Linguagens / Languages
+### Linguagens
 
 <div align="center">
 
@@ -46,7 +28,7 @@ I build everything from **8-to-64-bit CPUs from scratch** (logic gate by logic g
 
 </div>
 
-### 🛠 Ferramentas / Tools
+### Ferramentas
 
 <div align="center">
 
@@ -56,7 +38,7 @@ I build everything from **8-to-64-bit CPUs from scratch** (logic gate by logic g
 
 ---
 
-![Projects](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=E8C07A&center=true&vCenter=true&width=580&height=30&lines=%E2%97%86+PROJETOS+EM+DESTAQUE+%2F+FEATURED+MISSIONS+%E2%97%86)
+![Projects](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=E8C07A&center=true&vCenter=true&width=580&height=30&lines=PROJETOS+EM+DESTAQUE)
 
 <div align="center">
 
@@ -68,33 +50,29 @@ I build everything from **8-to-64-bit CPUs from scratch** (logic gate by logic g
 
 </div>
 
-### 🗂 Arsenal completo / Full arsenal
+### Portfólio completo
 
-| Projeto / Project | O que é / What it is | Stack |
+| Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| **[⬡ Projeto Baluarte](https://github.com/Lucas-Belucci-Bellini/Projeto-Baluarte)** | Plataforma web narrativa + militar + 40 ferramentas, com **J.A.R.V.I.S.** e **Git Nexus**. *Narrative/tools web platform.* | `JS` `Vite` `Electron` |
-| **[🖥 Digital Logic Sim CE](https://github.com/Lucas-Belucci-Bellini/Digital-Logic-Sim-CE)** | Onde construí CPUs funcionais de 8→64 bits do zero. *Where I built working 8→64-bit CPUs.* | `C#` `Unity` |
-| **[🧩 CHIPS Library](https://github.com/Lucas-Belucci-Bellini/CHIPS-Digital-Logic-Sim-Lucas-Belucci)** | Meus chips lógicos (AND/OR/NOT/NOR/XOR) e testes. *My saved logic chips.* | `JSON` |
-| **[📈 Stock Analyzer](https://github.com/Lucas-Belucci-Bellini/stock-analyzer-bot)** | Plataforma de análise de ações com IA: RSI, MACD, Bollinger, alertas. *AI investment platform.* | `TypeScript` `Drizzle` |
-| **[🦺 Baluarte Obra Segura](https://github.com/Lucas-Belucci-Bellini/baluarte-obra-segura)** | App (web + Electron) de segurança e gestão de obras. *Construction-safety & site management app.* | `TypeScript` `Electron` |
-| **[🧠 AI Second Brain](https://github.com/Lucas-Belucci-Bellini/AI-second-brain-with-Claude-and-Obsidian)** | Setup de "segundo cérebro" Obsidian + Claude Code. *Obsidian + Claude second-brain kit.* | `Bash` |
-| **[🍪 Cookie Clicker Bot](https://github.com/Lucas-Belucci-Bellini/Cookie-Clicker-Bot)** | Automador idle completo pro console do navegador. *Full idle automation bot.* | `JavaScript` |
-| **[♻️ Jogo da Reciclagem](https://github.com/Lucas-Belucci-Bellini/Recycle-game)** | Jogo educativo de reciclagem + automação. *Educational recycling game.* | `HTML` `JS` |
-| **[🏗 LLBR Innovations](https://github.com/Lucas-Belucci-Bellini/LLBR-Innovations-Constructions)** | Site institucional de construção (antes/depois, galeria). *Construction company site.* | `HTML` `CSS` |
-| **[🧾 AI Contador (IRPF)](https://github.com/Lucas-Belucci-Bellini/Projeto-Baluarte-AI-Contador)** | Agente de IA para Imposto de Renda no Brasil. *AI accountant for Brazilian income tax.* | `Docs` `AI` |
+| **[Projeto Baluarte](https://github.com/Lucas-Belucci-Bellini/Projeto-Baluarte)** | Plataforma web com mais de 40 ferramentas, integrando o assistente **J.A.R.V.I.S.** e o motor **Git Nexus**. | `JS` `Vite` `Electron` |
+| **[Digital Logic Sim CE](https://github.com/Lucas-Belucci-Bellini/Digital-Logic-Sim-CE)** | Onde construí CPUs funcionais de 8 a 64 bits do zero. | `C#` `Unity` |
+| **[CHIPS Library](https://github.com/Lucas-Belucci-Bellini/CHIPS-Digital-Logic-Sim-Lucas-Belucci)** | Biblioteca de chips lógicos (AND/OR/NOT/NOR/XOR) e testes. | `JSON` |
+| **[Stock Analyzer](https://github.com/Lucas-Belucci-Bellini/stock-analyzer-bot)** | Plataforma de análise de ações com IA: RSI, MACD, Bollinger, alertas. | `TypeScript` `Drizzle` |
+| **[Baluarte Obra Segura](https://github.com/Lucas-Belucci-Bellini/baluarte-obra-segura)** | Aplicativo (web + Electron) de segurança e gestão de obras. | `TypeScript` `Electron` |
+| **[AI Second Brain](https://github.com/Lucas-Belucci-Bellini/AI-second-brain-with-Claude-and-Obsidian)** | Configuração de "segundo cérebro" com Obsidian e Claude Code. | `Bash` |
+| **[Cookie Clicker Bot](https://github.com/Lucas-Belucci-Bellini/Cookie-Clicker-Bot)** | Automatizador completo para console do navegador. | `JavaScript` |
+| **[Jogo da Reciclagem](https://github.com/Lucas-Belucci-Bellini/Recycle-game)** | Jogo educativo de reciclagem com automação. | `HTML` `JS` |
+| **[LLBR Innovations](https://github.com/Lucas-Belucci-Bellini/LLBR-Innovations-Constructions)** | Site institucional de construção civil (antes/depois, galeria). | `HTML` `CSS` |
+| **[AI Contador (IRPF)](https://github.com/Lucas-Belucci-Bellini/Projeto-Baluarte-AI-Contador)** | Agente de IA para Imposto de Renda no Brasil. | `Docs` `AI` |
 
 ---
 
-![Lang Analysis](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=D4A24E&center=true&vCenter=true&width=600&height=30&lines=%E2%97%86+AN%C3%81LISE+DE+LINGUAGENS+%2F+LANGUAGE+ANALYSIS+%E2%97%86)
+![Lang Analysis](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=D4A24E&center=true&vCenter=true&width=600&height=30&lines=AN%C3%81LISE+DE+LINGUAGENS)
 
-> 🤖 Seção mantida por um **bot**: uma GitHub Action varre meus repositórios **públicos**
-> de hora em hora, soma os bytes por linguagem e reescreve o que está abaixo — total de
-> linguagens, o peso de cada uma e **em quais repositórios** ela foi usada.
+> Seção mantida por automação: uma GitHub Action varre meus repositórios públicos
+> de hora em hora, soma os bytes por linguagem e reescreve o bloco abaixo — total de
+> linguagens, o peso de cada uma e em quais repositórios ela foi usada.
 > Repositórios privados ficam de fora, por design.
->
-> *Kept by a bot: an hourly GitHub Action scans my public repos, aggregates bytes per
-> language and rewrites the block below — totals, weight and where each one was used.
-> Private repositories are excluded by design.*
 
 <!-- LANG-STATS:START -->
 
@@ -125,7 +103,7 @@ I build everything from **8-to-64-bit CPUs from scratch** (logic gate by logic g
 | 15 | **Dockerfile** | `460 B` | `0.01%` | 1 |
 
 <details>
-<summary><b>🗺 Onde cada linguagem foi usada / Where each language was used</b></summary>
+<summary><b>Onde cada linguagem foi usada</b></summary>
 
 #### JavaScript — `4.74 MB`
 
@@ -271,7 +249,7 @@ I build everything from **8-to-64-bit CPUs from scratch** (logic gate by logic g
 
 ---
 
-![Nucleo](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=E8C07A&center=true&vCenter=true&width=560&height=30&lines=%E2%AC%A1+N%C3%9ACLEO+%2F%2F+J.A.R.V.I.S.+%E2%80%94+AMOSTRA+VISUAL+%E2%AC%A1)
+![Nucleo](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=E8C07A&center=true&vCenter=true&width=560&height=30&lines=N%C3%9ACLEO+%E2%80%94+J.A.R.V.I.S.)
 
 <div align="center">
 
@@ -279,15 +257,12 @@ I build everything from **8-to-64-bit CPUs from scratch** (logic gate by logic g
 
 </div>
 
-> **⬡ J.A.R.V.I.S.** é o assistente do **Projeto Baluarte** — *10 modos* (Local, WebLLM
-> no navegador, Claude, Ollama, Hermes, Servidor, Agente…), sessões em IndexedDB,
-> memória e ferramentas reais que **navegam e executam ações** no site via **Git Nexus**.
-> Acima, uma amostra do visual — o **Núcleo** na estética **"Ouro de Fábula"** do Baluarte.
->
-> *J.A.R.V.I.S. is the Projeto Baluarte assistant — 10 modes, persistent sessions,
-> memory and real tools that browse and act on the site. Above is a taste of its UI.*
+> **J.A.R.V.I.S.** é o assistente do **Projeto Baluarte** — 10 modos (Local, WebLLM
+> no navegador, Claude, Ollama, Hermes, Servidor, Agente…), sessões persistentes em IndexedDB,
+> memória e ferramentas reais que navegam e executam ações no site via **Git Nexus**.
+> Acima, uma amostra do visual, na paleta **"Ouro de Fábula"**.
 
-**🎨 Design system — paleta "Ouro de Fábula" / Ouro de Fábula palette:**
+**Design system — paleta "Ouro de Fábula":**
 
 <div align="center">
 
@@ -301,85 +276,41 @@ I build everything from **8-to-64-bit CPUs from scratch** (logic gate by logic g
 
 ---
 
-![Missions](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=3DDC84&center=true&vCenter=true&width=560&height=30&lines=%E2%97%86+DIGITAL+LOGIC+SIM+%E2%80%94+CPU+BUILD+LOG+%E2%97%86)
+![Missions](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=3DDC84&center=true&vCenter=true&width=560&height=30&lines=DIGITAL+LOGIC+SIM+%E2%80%94+CONSTRU%C3%87%C3%83O+DE+CPUS)
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   DIGITAL LOGIC SIM — CPU BUILD LOG                          ║
-║   Computadores funcionais do zero, porta lógica por porta    ║
-╠══════════════════════════════════════════════════════════════╣
-║   [######################]   8-BIT CPU ....[CONCLUÍDO]       ║
-║   [######################]  16-BIT CPU ....[CONCLUÍDO]       ║
-║   [######################]  32-BIT CPU ....[CONCLUÍDO]       ║
-║   [######################]  64-BIT CPU ....[CONCLUÍDO]       ║
-╚══════════════════════════════════════════════════════════════╝
-```
+**Progresso: computadores funcionais construídos do zero, porta lógica por porta lógica**
 
-> Construí computadores funcionais de **8 a 64 bits** no Digital Logic Sim —
-> da ULA à arquitetura completa. Do zero. Porta lógica por porta lógica.
->
-> *Built working 8-to-64-bit computers in Digital Logic Sim — from the ALU to
-> the full architecture. From scratch, one logic gate at a time.*
+| Etapa | Status |
+| :--- | :---: |
+| CPU 8-bit | ✅ Concluída |
+| CPU 16-bit | ✅ Concluída |
+| CPU 32-bit | ✅ Concluída |
+| CPU 64-bit | ✅ Concluída |
+
+> Construí computadores funcionais de 8 a 64 bits no Digital Logic Sim — da ULA à
+> arquitetura completa, do zero, porta lógica por porta lógica.
 
 ---
 
-![Sites](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=D4A24E&center=true&vCenter=true&width=520&height=30&lines=%E2%97%86+SITES+AO+VIVO+%2F+LIVE+SITES+%E2%97%86)
+![Sites](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=D4A24E&center=true&vCenter=true&width=520&height=30&lines=SITES+NO+AR)
 
 <div align="center">
 
 [![Portfólio](https://img.shields.io/badge/%F0%9F%8E%93%20Portf%C3%B3lio-Faculdade-3ddc84?style=for-the-badge&labelColor=0e0c16&color=3ddc84)](https://sites.google.com/view/portifolio-de-lucas-belucci/me-conhe%C3%A7a-um-pouco?authuser=0)
-[![Projeto Baluarte](https://img.shields.io/badge/%E2%AC%A1%20Projeto%20Baluarte-Online-d4a24e?style=for-the-badge&labelColor=0e0c16&color=d4a24e)](https://projeto-baluarte.vercel.app)
-[![LLBR Innovations](https://img.shields.io/badge/%F0%9F%8F%97%20LLBR%20Innovations-Online-e8c07a?style=for-the-badge&labelColor=0e0c16&color=e8c07a)](https://llbr-innovations-constructions.vercel.app)
+[![Projeto Baluarte](https://img.shields.io/badge/Projeto%20Baluarte-Online-d4a24e?style=for-the-badge&labelColor=0e0c16&color=d4a24e)](https://projeto-baluarte.vercel.app)
+[![LLBR Innovations](https://img.shields.io/badge/LLBR%20Innovations-Online-e8c07a?style=for-the-badge&labelColor=0e0c16&color=e8c07a)](https://llbr-innovations-constructions.vercel.app)
 
 </div>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   DEPLOYMENTS — AO VIVO / ONLINE                             ║
-╠══════════════════════════════════════════════════════════════╣
-║   PORTFOLIO DA FACULDADE ...............[ONLINE]             ║
-║   sites.google.com/view/portifolio-de-lucas-belucci          ║
-║   Portfolio academico · UNIFIL · Ciencia da Computacao       ║
-║   ──────────────────────────────────────────────────────     ║
-║   PROJETO BALUARTE .....................[ONLINE]             ║
-║   projeto-baluarte.vercel.app                                ║
-║   Plataforma web · 40+ ferramentas · JARVIS · Nexus          ║
-║   ──────────────────────────────────────────────────────     ║
-║   LLBR INNOVATIONS / CONSTRUCTIONS .....[ONLINE]             ║
-║   llbr-innovations-constructions.vercel.app                  ║
-║   Site institucional · Antes/Depois · Galeria de obras       ║
-╚══════════════════════════════════════════════════════════════╝
-```
+| Site | Descrição |
+| :--- | :--- |
+| **Portfólio da faculdade** — [sites.google.com/view/portifolio-de-lucas-belucci](https://sites.google.com/view/portifolio-de-lucas-belucci/me-conhe%C3%A7a-um-pouco?authuser=0) | Portfólio acadêmico, UNIFIL, Ciência da Computação |
+| **Projeto Baluarte** — [projeto-baluarte.vercel.app](https://projeto-baluarte.vercel.app) | Plataforma web com mais de 40 ferramentas, J.A.R.V.I.S. e Git Nexus |
+| **LLBR Innovations** — [llbr-innovations-constructions.vercel.app](https://llbr-innovations-constructions.vercel.app) | Site institucional de construção civil, com antes/depois e galeria de obras |
 
 ---
 
-![Personal Log](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=E8C07A&center=true&vCenter=true&width=560&height=30&lines=%E2%97%86+ARQUIVO+PESSOAL+%2F+PERSONAL+LOG+%E2%97%86)
-
-### 🎮 Gaming
-
-<div align="center">
-
-[![HALO](https://img.shields.io/badge/HALO-Spartan-3ddc84?style=for-the-badge&logo=xbox&logoColor=white&labelColor=0e0c16)](https://www.halowaypoint.com)
-[![War Thunder](https://img.shields.io/badge/War%20Thunder-Em%20Campo-d4a24e?style=for-the-badge&logo=steam&logoColor=white&labelColor=0e0c16)](https://warthunder.com/en/registration?r=userinvite_186972483)
-[![Doom](https://img.shields.io/badge/DOOM-RIP%20%26%20TEAR-ff3355?style=for-the-badge&logo=steam&logoColor=white&labelColor=0e0c16)](https://store.steampowered.com)
-[![Warhammer 40k](https://img.shields.io/badge/Warhammer%2040k-For%20The%20Emperor-a89a80?style=for-the-badge&logo=steam&logoColor=white&labelColor=0e0c16)](https://store.steampowered.com)
-[![Helldivers](https://img.shields.io/badge/Helldivers%202-Super%20Earth-ffaa00?style=for-the-badge&logo=steam&logoColor=white&labelColor=0e0c16)](https://store.steampowered.com)
-[![ARMA 3](https://img.shields.io/badge/ARMA%203-Tactical-d4a24e?style=for-the-badge&logo=steam&logoColor=white&labelColor=0e0c16)](https://store.steampowered.com)
-[![Fallout 4](https://img.shields.io/badge/Fallout%204-Vault%20Dweller-e8c07a?style=for-the-badge&logo=steam&logoColor=white&labelColor=0e0c16)](https://store.steampowered.com)
-
-</div>
-
-### 📚 Minha Fan Fiction
-
-> "Spartan never gives up. Spartan always finishes it."
-
-Uma seção dedicada à minha fan fiction — histórias e universos que eu crio, um espaço pra imaginação e criatividade fluírem.
-
-📖 **Comece a ler por aqui / Start reading here:** [Minha Fan Fiction — Início](https://docs.google.com/document/d/1FJulPVU1WA8LTLL3NO7h2CTW7pmlNWgO-C77qwtcVgU/edit?usp=drivesdk)
-
----
-
-![Field Report](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=D4A24E&center=true&vCenter=true&width=560&height=30&lines=%E2%97%86+RELAT%C3%93RIO+DE+CAMPO+%2F+FIELD+REPORT+%E2%97%86)
+![Field Report](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=D4A24E&center=true&vCenter=true&width=560&height=30&lines=ESTAT%C3%8DSTICAS)
 
 <div align="center">
 
@@ -396,7 +327,7 @@ Uma seção dedicada à minha fan fiction — histórias e universos que eu crio
 
 ---
 
-![Activity Map](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=3DDC84&center=true&vCenter=true&width=560&height=30&lines=%E2%97%86+MAPA+DE+ATIVIDADE+%2F+ACTIVITY+MAP+%E2%97%86)
+![Activity Map](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=3DDC84&center=true&vCenter=true&width=560&height=30&lines=MAPA+DE+ATIVIDADE)
 
 <div align="center">
 
@@ -406,35 +337,22 @@ Uma seção dedicada à minha fan fiction — histórias e universos que eu crio
 
 ---
 
-![Comm Channel](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=D4A24E&center=true&vCenter=true&width=560&height=30&lines=%E2%97%86+CANAL+DE+COMUNICA%C3%87%C3%83O+%2F+COMM+CHANNEL+%E2%97%86)
+![Comm Channel](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=14&duration=4000&pause=9999&color=D4A24E&center=true&vCenter=true&width=560&height=30&lines=CONTATO)
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lucas--Belucci--Bellini-d4a24e?style=for-the-badge&logo=github&logoColor=white&labelColor=0e0c16)](https://github.com/Lucas-Belucci-Bellini)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e0c16)](https://www.linkedin.com/in/lucas-belucci-bellini-28044b328)
-[![YouTube](https://img.shields.io/badge/YouTube-Spartan%20Gamer%20BR-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0e0c16)](https://www.youtube.com/@spartan_gamer_br)
-[![Twitch](https://img.shields.io/badge/Twitch-spartan__gamer__pro-9146ff?style=for-the-badge&logo=twitch&logoColor=white&labelColor=0e0c16)](https://www.twitch.tv/spartan_gamer_pro)
-
-[![Steam](https://img.shields.io/badge/Steam-Spartan%20Gamer%20BR-1b2838?style=for-the-badge&logo=steam&logoColor=white&labelColor=0e0c16)](https://steamcommunity.com/id/spartangamerbr)
-[![Spotify](https://img.shields.io/badge/Spotify-Spartan%20Br-1db954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0e0c16)](https://open.spotify.com/user/spartanbr)
-[![Instagram](https://img.shields.io/badge/Instagram-lucasbeluccioficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0e0c16)](https://www.instagram.com/lucasbeluccioficial)
+[![YouTube](https://img.shields.io/badge/YouTube-Canal-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0e0c16)](https://www.youtube.com/@spartan_gamer_br)
 [![Email](https://img.shields.io/badge/Email-lucasbb2007%40gmail.com-d4a24e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e0c16)](mailto:lucasbb2007@gmail.com)
 
 </div>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   "A melhor forma de prever o futuro é construí-lo."         ║
-║   "The best way to predict the future is to build it."       ║
-║                                                — Alan Kay    ║
-╠══════════════════════════════════════════════════════════════╣
-║   Spartan never gives up. Spartan always finishes it.        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+> "A melhor forma de prever o futuro é construí-lo." — Alan Kay
 
 <div align="center">
 
-[![Visitors](https://komarev.com/ghpvc/?username=Lucas-Belucci-Bellini&style=for-the-badge&color=d4a24e&labelColor=0e0c16&label=VISITAS+/+VISITS)](https://github.com/Lucas-Belucci-Bellini)
+[![Visitors](https://komarev.com/ghpvc/?username=Lucas-Belucci-Bellini&style=for-the-badge&color=d4a24e&labelColor=0e0c16&label=VISITAS)](https://github.com/Lucas-Belucci-Bellini)
 
 </div>
 
