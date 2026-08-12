@@ -59,9 +59,9 @@
 <div align="center">
 
 ```text
-┌────────────────────────────────────────────────────────┐
-│                 🌙 TurboUI (HyperOS Port)              │
-└────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────┐
+│                 🌙 Project EclipseOS (HyperOS Port)              │
+└───────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -71,10 +71,10 @@
     <td width="50%" valign="top">
       <h3>📌 Detalhes do Projeto</h3>
       <ul>
-        <li><b>Base:</b> Port do Redmi Note 13 5G adaptado para Redmi 12C</li>
-        <li><b>Versão Atual:</b> v3.0.3.0 Global (Android 15)</li>
-        <li><b>Status:</b> 🧪 Em desenvolvimento ativo (v4.0)</li>
-        <li><b>Kernel Custom:</b> Suporte Amegakure (expansão RAM até 4GB)</li>
+        <li><b>Base:</b> Adaptando a EclipseOS do Redmi note 13 5G para Redmi 12C</li>
+        <li><b>Versão Atual:</b> v3.0.305.0 CN (Android 16)</li>
+        <li><b>Status:</b> 🧪 Em desenvolvimento ativo (v1.0)</li>
+        <li><b>Kernel Custom:</b> Suporte ao Kernel Amegakure</li>
       </ul>
     </td>
     <td width="50%" valign="top">
