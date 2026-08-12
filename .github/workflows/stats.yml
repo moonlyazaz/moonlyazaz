@@ -1,0 +1,40 @@
+name: Generate Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza diariamente
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Gera o card de Estatísticas Gerais
+      - uses: anuraghazra/github-readme-stats-action@v2
+        with:
+          card: "stats"
+          path: "dist/github-stats.svg"
+          options: "username=moonlyazaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+
+      # Gera o card de Linguagens Mais Usadas
+      - uses: anuraghazra/github-readme-stats-action@v2
+        with:
+          card: "top-langs"
+          path: "dist/top-langs.svg"
+          options: "username=moonlyazaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+
+      # Faz commit e push das imagens para a mesma branch "output"
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_files: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

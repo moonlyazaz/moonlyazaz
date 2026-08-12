@@ -80,8 +80,8 @@ Port customizado de HyperOS com branding e customizações de UI próprias, para
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonlyazaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlyazaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Stats](https://raw.githubusercontent.com/moonlyazaz/moonlyazaz/output/github-stats.svg)
+![Top Langs](https://raw.githubusercontent.com/moonlyazaz/moonlyazaz/output/top-langs.svg)
 
 ![Streak](https://streak-stats.demolab.com?user=moonlyazaz&theme=tokyonight&hide_border=true)
 
