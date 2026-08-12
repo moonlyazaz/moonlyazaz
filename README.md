@@ -30,7 +30,7 @@
       <br/>
       Desenvolvedor e entusiasta da modding scene no Android, focado no desenvolvimento e <b>portabilidade de ROMs customizadas</b> baseadas em <b>HyperOS/MIUI</b> para dispositivos Redmi.
       <br/><br/>
-      Especializado em engenharia reversa de apps do sistema, edições avançadas de <b>smali</b>, adaptação de árvores de dispositivos e correções de baixo nível para estabilidade de sistema no <b>Redmi 12C</b> (usando o Redmi 13C como doador).
+      Especializado em engenharia reversa de apps do sistema, edições avançadas de <b>smali</b>, adaptação de árvores de dispositivos e correções de baixo nível para estabilidade de sistema no <b>Redmi 12C</b>
     </td>
     <td width="40%" align="center">
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=moonlyazaz&layout=compact&theme=tokyonight&hide_border=true&card_width=320" />
