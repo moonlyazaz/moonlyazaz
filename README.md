@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Trabalho com desenvolvimento e portabilidade de ROMs customizadas baseadas em HyperOS/MIUI para dispositivos Redmi, principalmente portando para o **Redmi 12C** usando o **Redmi 13C** como doador. No dia a dia, isso envolve edição de smali, modificação de APKs, edição de partições de sistema e criação de módulos Magisk.
+Trabalho com desenvolvimento e portabilidade de ROMs customizadas baseadas em HyperOS/MIUI para dispositivos Redmi, principalmente portando para o **Redmi 12C** usando o **Outros devices** como doador. No dia a dia, isso envolve edição de smali, modificação de APKs, edição de partições de sistema e criação de módulos Magisk.
 
 ---
 
