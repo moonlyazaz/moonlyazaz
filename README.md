@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Trabalho com desenvolvimento e portabilidade de ROMs customizadas baseadas em HyperOS/MIUI para dispositivos Redmi, principalmente portando para o **Redmi 12C** usando o **Outros devices** como doador. No dia a dia, isso envolve edição de smali, modificação de APKs, edição de partições de sistema e criação de módulos Magisk.
+Trabalho com desenvolvimento e portabilidade de ROMs customizadas baseadas em HyperOS/MIUI para dispositivos Redmi, principalmente portando para o **Redmi 12C** usando o **Redmi 13C** como doador. No dia a dia, isso envolve edição de smali, modificação de APKs, edição de partições de sistema e criação de módulos Magisk.
 
 ---
 
@@ -21,7 +21,7 @@ Trabalho com desenvolvimento e portabilidade de ROMs customizadas baseadas em Hy
 <td width="50%" valign="top">
 
 ### 📱 Portabilidade de ROMs
-Porte de ROMs entre variantes de dispositivo (ex: Redmi Note 14 4G → Redmi 12C), incluindo ajuste de câmera, telefonia/SMS, cutout de tela e estabilidade geral do sistema.
+Porte de ROMs entre variantes de dispositivo (ex: Redmi 13C → Redmi 12C), incluindo ajuste de câmera, telefonia/SMS, cutout de tela e estabilidade geral do sistema.
 
 ### 🔧 Edição de APKs e smali
 Patches em `Settings.apk`, correção de crashes via null-checks, reempacotamento de `classes.dex`, edição de recursos ARSC e criação de UIs customizadas dentro de apps de sistema.
@@ -89,7 +89,7 @@ Port customizado de HyperOS com branding e customizações de UI próprias, para
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=moonlyazaz&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8)
+![Trophies](https://github-trophies.vercel.app/?username=moonlyazaz&theme=tokyonight&no-frame=true&column=6)
 
 </div>
 
@@ -98,10 +98,6 @@ Port customizado de HyperOS com branding e customizações de UI próprias, para
 ## Atividade
 
 <div align="center">
-
-<!--START_SECTION:activity-->
-<!-- Atualizado automaticamente pela GitHub Action "github-activity-readme" (veja instruções abaixo) -->
-<!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/moonlyazaz/moonlyazaz/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 
@@ -118,4 +114,3 @@ Port customizado de HyperOS com branding e customizações de UI próprias, para
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
-
