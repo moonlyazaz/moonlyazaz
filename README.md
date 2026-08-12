@@ -71,4 +71,46 @@ Port customizado de HyperOS com branding e customizações de UI próprias, para
 | **Base** | ROM portada do Redmi Note 13 5G, com otimizações agressivas de performance |
 | **Kernel** | Opção Amegakure, com expansão de memória de até 4 GB |
 | **Versão atual** | v3.0.3.0 Global (Android 15) |
-| **Em desenvolvimento** |
+| **Em desenvolvimento** | v4 |
+| **Distribuição** | Canal do Telegram |
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=moonlyazaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=moonlyazaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Streak](https://streak-stats.demolab.com?user=moonlyazaz&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-trophies.vercel.app/?username=moonlyazaz&theme=tokyonight&no-frame=true&column=6)
+
+</div>
+
+---
+
+## Atividade
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/moonlyazaz/moonlyazaz/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+
+</div>
+
+---
+
+## Contato
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-Canal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
