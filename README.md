@@ -71,43 +71,4 @@ Port customizado de HyperOS com branding e customizações de UI próprias, para
 | **Base** | ROM portada do Redmi Note 13 5G, com otimizações agressivas de performance |
 | **Kernel** | Opção Amegakure, com expansão de memória de até 4 GB |
 | **Versão atual** | v3.0.3.0 Global (Android 15) |
-| **Em desenvolvimento** | v4 |
-| **Distribuição** | Canal do Telegram |
-
----
-
-## Estatísticas
-
-<div align="center">
-
-![GitHub Metrics](https://raw.githubusercontent.com/moonlyazaz/moonlyazaz/output/github-metrics.svg)
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-trophies.vercel.app/?username=moonlyazaz&theme=tokyonight&no-frame=true&column=6)
-
-</div>
-
----
-
-## Atividade
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/moonlyazaz/moonlyazaz/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-
-</div>
-
----
-
-## Contato
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-Canal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
-
-</div>
-
-!
+| **Em desenvolvimento** |
