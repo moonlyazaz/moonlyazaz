@@ -2,7 +2,7 @@ name: Generate Profile Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Atualiza diariamente
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -10,31 +10,34 @@ on:
       - master
 
 jobs:
-  publish:
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-
-      # Gera o card de Estatísticas Gerais
-      - uses: anuraghazra/github-readme-stats-action@v2
+      # Gera os cards de estatísticas e linguagens
+      - uses: lowlighter/metrics@latest
         with:
-          card: "stats"
-          path: "dist/github-stats.svg"
-          options: "username=moonlyazaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: moonlyazaz
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          filename: github-metrics.svg
 
-      # Gera o card de Linguagens Mais Usadas
-      - uses: anuraghazra/github-readme-stats-action@v2
-        with:
-          card: "top-langs"
-          path: "dist/top-langs.svg"
-          options: "username=moonlyazaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-
-      # Faz commit e push das imagens para a mesma branch "output"
+      # Copia para a branch output
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
           keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
